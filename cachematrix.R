@@ -1,4 +1,4 @@
-# Title: CacheMatrix & cacheSolve functions
+# Title: makeCacheMatrix & cacheSolve functions
 # Description: These functions allow a user to cache the inverse of a matrix instead of repeatedly computing it.
 
 ## The makeCacheMatrix function creates a special "matrix" object that can cache its inverse.
